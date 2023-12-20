@@ -1,0 +1,27 @@
+.navbar-nav {
+    margin-left: 800px;
+}
+
+a{
+    padding-right: 50px;
+}
+
+.col-md-5{
+    margin-left: 400px;
+    margin-top: 3px;
+}
+
+.btn-outline-secondary{
+    margin-top: 5px;
+    margin-left: 95px;
+}
+
+.btn-danger{
+    margin-top: 10px;
+    margin-left: 895px;
+}
+
+.cimage{
+    margin-top: 10px;
+    margin-left: 400px;
+}
